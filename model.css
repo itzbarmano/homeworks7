@@ -1,0 +1,12 @@
+div{
+    width: fit-content;
+    height: fit-content;
+    background-color: aqua;
+
+
+}
+div>p{
+    width: 100vw;
+    height: fit-content;
+    background-color: blue;
+}
